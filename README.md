@@ -1,16 +1,16 @@
-## Hi there 👋
+# Baray Özer
+*Undergraduate Researcher in Molecular Biology & Genetics*
 
-<!--
-**babizr42/babizr42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research focuses on computational biology, bridging wet-lab genetics with bioinformatics. I primarily work on turning raw genomic data into functional biological hypotheses.
 
-Here are some ideas to get you started:
+### Research Areas
+- **Transcriptomics:** Developing automated R pipelines using TCGAbiolinks to download, parse, and normalize TCGA RNA-seq datasets for differential gene expression analysis.
+- **Structural Biology:** Investigating molecular docking pathways and structural predictions, with a focus on apoptosis regulators (Bcl-2 and Bax).
+- **Systems & Environment:** Configuring and deploying structural prediction tools like ColabFold and Chai-1 in Linux/Ubuntu environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Stack
+- **Languages:** R, Python, Bash
+- **Tools:** Git, Linux/Ubuntu, Markdown
+
+### Contact
+- **Email:** [baraywozer@outlook.com](mailto:baraywozer@outlook.com)
